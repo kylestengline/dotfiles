@@ -179,8 +179,8 @@ alias pedulio='cd ~/projects/pedul.github.io/'
 alias pedulfire='cd ~/projects/pedul/'
 alias motivatedir='cd ~/code/wdi/motivate/'
 alias portdir='cd ~/code/wdi/portfolio/'
-alias scripts='cd ~/usr/local/bin/scripts/'
-alias scriptgit='cd ~/code/wdi/scripts/'
+alias myscripts='cd ~/usr/local/bin/scripts/'
+alias myscriptgit='cd ~/code/wdi/scripts/'
 alias projects='cd ~/code/wdi/'
 
 #Git
