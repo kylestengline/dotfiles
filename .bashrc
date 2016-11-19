@@ -152,8 +152,14 @@ alias show_files="defaults write com.apple.finder AppleShowAllFiles TRUE && kill
 #################### My Aliases ####################
 ####################################################
 
+#Random
 alias f='touch'
 alias d='mkdir'
+
+#Moving around
+alias bb='cd ../../'
+alias bbb='cd ../../../'
+alias bbbb='cd ../../../../'
 
 #Vim
 alias v='vim'
