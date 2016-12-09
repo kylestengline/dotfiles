@@ -1,0 +1,44 @@
+#Random
+alias f='touch'
+alias d='mkdir'
+
+#Moving around
+alias bb='cd ../../'
+alias bbb='cd ../../../'
+alias bbbb='cd ../../../../'
+
+#Vim
+alias v='vim'
+
+#Rails
+alias r='rails'
+
+#Bundler
+alias bi='bundle install'
+
+#React
+alias ns='npm start'
+alias ni='npm install'
+
+#Projects
+alias pedulio='cd ~/projects/pedul.github.io/'
+alias pedulfire='cd ~/projects/pedul/'
+alias motivatedir='cd ~/code/wdi/motivate/'
+alias portdir='cd ~/code/wdi/portfolio/'
+alias myscripts='cd /usr/local/bin/scripts'
+alias myscriptgit='cd ~/code/wdi/scripts/'
+alias projects='cd ~/code/wdi/'
+
+#Git
+alias g='git'
+alias gcb='g checkout -b'
+alias gc='g checkout'
+alias ga='g add .'
+alias gcm='g commit -m'
+alias gs='g status'
+alias gb='g branch'
+alias grv='g remote -v'
+alias gm='g merge'
+alias gp='g push'
+alias gpo='g push origin'
+alias gpu='g push upstream'
