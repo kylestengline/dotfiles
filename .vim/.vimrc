@@ -70,6 +70,13 @@ let g:javascript_plugin_flow = 1
 " Nerd_Tree Plugin
 map <C-n> :NERDTreeToggle<CR>
 
+" mapleader
+let mapleader = ","
+
+" leaders
+nnoremap <leader>b gT
+nnoremap <leader>f gt
+
 "jj = esc
 imap jj <ESC>
 
