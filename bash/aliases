@@ -8,6 +8,7 @@ alias d='mkdir'
 alias bb='cd ../../'
 alias bbb='cd ../../../'
 alias bbbb='cd ../../../../'
+alias root='cd ~/'
 
 #Vim
 alias v='vim'
@@ -19,6 +20,9 @@ alias r='rails'
 alias bi='bundle install'
 alias be='bundle exec'
 alias bu='bundle update'
+
+#Brew
+alias bri='brew install'
 
 #React
 alias ns='npm start'
