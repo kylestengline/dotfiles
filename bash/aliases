@@ -53,5 +53,3 @@ alias gm='g merge'
 alias gp='g push'
 alias gpo='g push origin'
 alias gpu='g push upstream'
-
-
