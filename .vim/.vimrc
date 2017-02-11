@@ -8,7 +8,7 @@ colorscheme railscasts
 " make tab size equal to 2 spaces
 set wrap
 set linebreak
-" set nolist  " list disables linebreak
+
 " limit lines 80 characters
 set textwidth=80
 set wrapmargin=0
@@ -73,11 +73,10 @@ map <C-n> :NERDTreeToggle<CR>
 " mapleader
 let mapleader = ","
 
-" leaders
-nnoremap <leader>b gT
+"leaders 
+nnoremap <leader>b gT 
 nnoremap <leader>f gt
 
-"jj = esc
 imap jj <ESC>
 
 " airline 
