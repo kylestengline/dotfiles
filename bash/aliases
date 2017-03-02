@@ -1,5 +1,10 @@
 # -*- sh -*-
 
+proj() {
+  cd ~/projects/
+  ls
+}
+
 #Random
 alias f='touch'
 alias d='mkdir'
@@ -18,7 +23,7 @@ alias r='rails'
 
 #Bundler
 alias bi='bundle install'
-alias be='bundle exec'
+alias bx='bundle exec'
 alias bu='bundle update'
 
 #Brew
@@ -26,19 +31,17 @@ alias bri='brew install'
 
 #React
 alias ns='npm start'
+alias nu='npm update'
 alias ni='npm install'
 
 #Projects
-alias pedulio='cd ~/projects/pedul.github.io/'
-alias pedulfire='cd ~/projects/pedul/'
-alias motivatedir='cd ~/code/wdi/motivate/'
-alias simondir='cd ~/code/wdi/kylestengline.github.io'                                                                                   
-alias blogdir='cd ~/code/wdi/blog_app_tests'
-alias kitdir='cd ~/code/wdi/keep_in_touch'
-alias portdir='cd ~/code/wdi/portfolio/'
+alias motivatedir='cd ~/projects/motivate/'
+alias simondir='cd ~/projects/kylestengline.github.io'
+alias blogdir='cd ~/projects/blog_app_tests'
+alias kitdir='cd ~/projects/keep_in_touch'
+alias portdir='cd ~/projects/portfolio/'
 alias myscripts='cd /usr/local/bin/scripts'
-alias myscriptgit='cd ~/code/wdi/scripts/'
-alias projects='cd ~/code/wdi/'
+alias myscriptgit='cd ~/projects/scripts/'
 
 #Git
 alias g='git'
@@ -53,3 +56,4 @@ alias gm='g merge'
 alias gp='g push'
 alias gpo='g push origin'
 alias gpu='g push upstream'
+alias gclo='g clone'
