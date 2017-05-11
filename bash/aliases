@@ -1,10 +1,5 @@
 # -*- sh -*-
 
-proj() {
-  cd ~/projects/
-  ls
-}
-
 #Random
 alias f='touch'
 alias d='mkdir'
@@ -42,6 +37,7 @@ alias kitdir='cd ~/projects/keep_in_touch'
 alias portdir='cd ~/projects/portfolio/'
 alias myscripts='cd /usr/local/bin/scripts'
 alias myscriptgit='cd ~/projects/scripts/'
+alias proj='cd ~/projects/ && ls'
 
 #Git
 alias g='git'
