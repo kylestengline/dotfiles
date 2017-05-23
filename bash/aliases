@@ -38,6 +38,7 @@ alias portdir='cd ~/projects/portfolio/'
 alias myscripts='cd /usr/local/bin/scripts'
 alias myscriptgit='cd ~/projects/scripts/'
 alias exerdir='cd ~/projects/exercism/ruby/ && ls'
+alias github='open https://github.com/kylestengline'
 alias proj='cd ~/projects/ && ls'
 
 #Git
