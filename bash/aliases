@@ -37,6 +37,7 @@ alias kitdir='cd ~/projects/keep_in_touch'
 alias portdir='cd ~/projects/portfolio/'
 alias myscripts='cd /usr/local/bin/scripts'
 alias myscriptgit='cd ~/projects/scripts/'
+alias exerdir='cd ~/projects/exercism/ruby/ && ls'
 alias proj='cd ~/projects/ && ls'
 
 #Git
