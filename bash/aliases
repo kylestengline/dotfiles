@@ -4,8 +4,8 @@
 alias f='touch'
 alias d='mkdir'
 alias get_mail='open -a Mail'
-alias get_notes='open -a Notes'
-alias get_slack='open -a Slack'
+alias notes='open -a Notes'
+alias slack='open -a Slack'
 
 #Moving around
 alias bb='cd ../../'
