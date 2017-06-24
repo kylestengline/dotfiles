@@ -6,6 +6,7 @@ alias d='mkdir'
 alias get_mail='open -a Mail'
 alias notes='open -a Notes'
 alias slack='open -a Slack'
+alias trello='open https://trello.com'
 
 #Moving around
 alias bb='cd ../../'
