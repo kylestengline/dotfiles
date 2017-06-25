@@ -6,7 +6,6 @@ alias d='mkdir'
 alias get_mail='open -a Mail'
 alias notes='open -a Notes'
 alias slack='open -a Slack'
-alias trello='open https://trello.com'
 
 #Moving around
 alias bb='cd ../../'
@@ -39,11 +38,13 @@ alias motivatedir='cd ~/projects/motivate/'
 alias simondir='cd ~/projects/kylestengline.github.io'
 alias blogdir='cd ~/projects/blog_app_tests'
 alias kitdir='cd ~/projects/keep_in_touch'
+alias dotdir='cd ~/projects/dotfiles'
 alias portdir='cd ~/projects/portfolio/'
 alias myscripts='cd /usr/local/bin/scripts'
 alias myscriptgit='cd ~/projects/scripts/'
 alias exerdir='cd ~/projects/exercism/ruby/ && ls'
 alias get_github='open https://github.com/kylestengline'
+alias trello='open https://trello.com'
 alias proj='cd ~/projects/ && ls'
 
 #Git
