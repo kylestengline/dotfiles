@@ -19,6 +19,7 @@ alias v='vim'
 #Rails
 alias r='rails'
 alias rr='r routes'
+alias bspec='bundle exec rspec'
 
 #Bundler
 alias bi='bundle install'
